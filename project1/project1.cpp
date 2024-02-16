@@ -10,5 +10,6 @@ int main()
     cin >> a >> b;
     cout << "Сумма: " << a + b << endl;
     cout << "Произведение: " << a * b;
+    cout << "РАЗНОСТЬ: " << a - b;
 }
 
